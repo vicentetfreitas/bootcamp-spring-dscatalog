@@ -1,5 +1,5 @@
 package com.vicente.dscatalog.entities;
-
+// Entities
 import java.io.Serializable;
 import java.util.Objects;
 
